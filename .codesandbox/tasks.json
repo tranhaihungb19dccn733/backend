@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": {
+      "name": "start",
+      "command": "nodemon index.js"
+    }
+  }
+}
